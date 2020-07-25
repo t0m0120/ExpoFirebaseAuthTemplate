@@ -28,4 +28,5 @@ $ yarn start
 
 
 LoginScreen | AfterLoginScreen
+--- | ---
 ![](./readme/login.png) | ![](./readme/top.png)
